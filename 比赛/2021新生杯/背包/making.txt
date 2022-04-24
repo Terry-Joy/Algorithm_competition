@@ -1,0 +1,4 @@
+@echo off
+for  /L %%I in (4,1,8) do data.exe>%%I.in
+for  /L %%I in (4,1,8) do std.exe<%%I.in>%%I.out
+pause	

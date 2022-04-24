@@ -1,0 +1,23 @@
+[luogu3808]【模板】AC自动机（简单版） https://www.luogu.org/problemnew/show/P3808 √
+[luogu3796]【模板】AC自动机（加强版）https://www.luogu.org/problemnew/show/P3796 √
+[CJOJ1435] 【模板题 USACO】AC自动机 https://oj.changjun.com.cn/problem/detail/pid/1435 
+[HDU2296]Ring https://vjudge.net/problem/HDU-2296#author=prayerhgq
+[BZOJ1030][JSOI2007]文本生成器 https://www.luogu.org/problemnew/show/P4052  √
+[BZOJ3172][TJOI2013]单词 https://www.luogu.org/problemnew/show/P3966 √
+[Luogu2444][POI2000]病毒 https://www.luogu.org/problemnew/show/P2444 √
+[BZOJ1009][HNOI2008]GT考试 https://www.luogu.org/problemnew/show/P3193 √
+[BZOJ3530][SDOI2014]数数 https://www.luogu.org/problemnew/show/P3311 √
+[Luogu3121][USACO15FEB]审查Censoring https://www.luogu.org/problemnew/show/P3121
+[BZOJ1212][HNOI2004]L语言 https://www.luogu.org/problemnew/show/P2292
+[Luogu3041][USACO12JAN]视频游戏的连击Video Game Combos https://www.luogu.org/problemnew/show/P3041
+[BZOJ2434]阿狸的打字机 https://www.luogu.org/problemnew/show/P2414 √
+[BZOJ2754]喵星球上的点名 https://www.luogu.org/problemnew/show/P2336
+[BZOJ1444][Jsoi2009]有趣的游戏 https://www.lydsy.com/JudgeOnline/problem.php?id=1444
+[BeiJing2011]禁忌 https://www.luogu.org/problemnew/show/P4569
+[Ahoi2005]VIRUS 病毒检测 https://www.luogu.org/problemnew/show/P2536
+[Cqoi2014]通配符匹配 https://www.luogu.org/problemnew/show/P3167
+[HNOI2006]最短母串 https://www.luogu.org/problemnew/show/P2322 √
+[HEOI2012]旅行问题 https://www.luogu.org/problemnew/show/P4600
+icpc hongkong 2016 J √
+cf 585 F
+bzoj 魔法咒语
